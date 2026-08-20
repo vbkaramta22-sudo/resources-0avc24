@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vbkaramta22-sudo.github.io/resources-0avc24/sitemap.xml
